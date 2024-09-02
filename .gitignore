@@ -1,1 +1,2 @@
-# Ignoring all HERMES cache files.hermes/
+# Ignoring all HERMES cache files
+.hermes/
