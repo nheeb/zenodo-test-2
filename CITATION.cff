@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Fruitsalad-Recipe (Spicy)
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Nitai
+    family-names: Heeb
+    email: n.heeb@fz-juelich.de
+abstract: Contains instructions on how to make a fruit salad.
+keywords:
+  - Fruit
+license: CC0-1.0
